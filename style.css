@@ -1,5 +1,6 @@
 html {
     background-color: black;
+    text-decoration: none;
     margin: 0;
     top: 0;
     height: 100vh;
@@ -27,4 +28,26 @@ body {
 
 .link {
     font-weight:  bold;
+}
+
+section {
+    margin-top: 100px;
+    color: white;
+}
+img {
+    height: 100px;
+    width: 125px;
+}
+
+#intro {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 100%
+}
+
+#about, #john {
+    width: 250px;
 }

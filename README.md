@@ -8,3 +8,4 @@
 - I will apply CSS and functions in later stages
 - ## Part 3
 - Applied basic CSS properties for layout of website
+- Applied nav and CSS to all webpages
