@@ -9,3 +9,6 @@
 - ## Part 3
 - Applied basic CSS properties for layout of website
 - Applied nav and CSS to all webpages
+- Initial dev done
+- ## Part 4
+- Installing form, cleaning up work for submission
